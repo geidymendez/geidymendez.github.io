@@ -12,9 +12,6 @@ last_name: Mendez
 # Pronouns (optional)
 pronouns: she/her/hers
 
-# Status emoji
-status:
-  icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Candidate, Political Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,24 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:geidym@uci.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/geidy-mendez
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - American Politics
+  - Race and Ethnicity Politics
+  - Latinx and Latin American Politics
+  - Political Psychology 
 
 education:
   - area: PhD Candidate, Political Science
@@ -59,26 +52,23 @@ education:
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
+     Dissertation: 
       
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MS Political Science
+    institution: University of California-Irvine
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+  - area: BA Political Science
+    institution: Rutgers University
+    institution: Douglass Residential College  
     date_start: 2009-09-01
     date_end: 2013-05-31
     summary: |
       GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
-
+        Minor in Caribbean and Latino Studies
 work:
   - position: Senior AI Research Scientist
     company_name: Meta AI
