@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Geidy Mendez
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Geidy
+last_name: Mendez
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her/hers
 
 # Status emoji
 status:
